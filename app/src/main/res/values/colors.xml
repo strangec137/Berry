@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="seed_color">#4CAF9A</color>
+    <color name="income_green">#4CAF50</color>
+    <color name="expense_red">#E53935</color>
+    <color name="warning_amber">#FF9800</color>
+    <color name="calendar_green">#4CAF50</color>
+    <color name="calendar_amber">#FF9800</color>
+    <color name="calendar_red">#E53935</color>
+    <color name="calendar_gray">#BDBDBD</color>
+</resources>

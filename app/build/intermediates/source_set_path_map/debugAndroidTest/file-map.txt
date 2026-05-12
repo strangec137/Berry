@@ -1,0 +1,4 @@
+com.myapp.buckwheat.test.app-androidTest-0 G:\MM\app\build\generated\res\resValues\androidTest\debug
+com.myapp.buckwheat.test.app-mergeDebugAndroidTestResources-1 G:\MM\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.myapp.buckwheat.test.app-mergeDebugAndroidTestResources-2 G:\MM\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.myapp.buckwheat.test.app-merged_res-3 G:\MM\app\build\intermediates\merged_res\debugAndroidTest
